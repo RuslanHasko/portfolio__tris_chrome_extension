@@ -1,11 +1,11 @@
 {
-  "name": "Tris",
-  "description": "Tris",
+  "name": "tris",
+  "description": "tris",
   "main": "build/index.html",
   "authors": [
     "Ruslan Hasko <RuslanHasko@gmail.com>"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "moduleType": [],
   "homepage": "",
   "private": true,

@@ -1,14 +1,14 @@
 {
-  "name": "Tris",
-  "version": "0.0.1",
-  "description": "Tris",
+  "name": "tris",
+  "version": "0.7.1",
+  "description": "tris google chrome extension",
   "main": "build/index.html",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:MarekSikorsky/test_angular.git"
+    "url": "git@github.com:RuslanHasko/portfolio__tris_chrome_extension.git"
   },
   "author": "Ruslan Hasko <RuslanHasko@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.2.3",
     "gulp": "^3.8.11",
