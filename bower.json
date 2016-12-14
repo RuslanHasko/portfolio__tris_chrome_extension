@@ -1,0 +1,26 @@
+{
+  "name": "Tris",
+  "description": "Tris",
+  "main": "build/index.html",
+  "authors": [
+    "Ruslan Hasko <RuslanHasko@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "jquery": "1.12.4",
+    "normalize-less": "*",
+    "materialize": "0.97.6",
+    "material-design-icons": "^2.2.3"
+  }
+}
